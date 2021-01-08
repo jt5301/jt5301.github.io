@@ -156,7 +156,10 @@ header .intro-text .skills {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
-
+.navbar .container{
+  display: flex;
+    justify-content: center;
+}
 .navbar a:focus {
     outline: 0;
 }

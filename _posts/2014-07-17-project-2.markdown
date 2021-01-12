@@ -1,11 +1,10 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Accountabuddy
+img: accountabuddy.gif
+alt: accoutabuddy
+repo: https://github.com/Dr-DJ1909/Accountabuddy
+category: Mobile Application
+description: The final project I made at the end of my time at Fullstack Academy with a group of three others. Accoutabuddy is a mobile productivity app that allows users to track tasks to complete, with the added motivation and encouragement of having a pet to take care of. We also wanted to add some social functionality such as real-time chat to add other ways for users to keep accountable to their chores. Created with React Native, Node.js, Express and Firebase.
 ---

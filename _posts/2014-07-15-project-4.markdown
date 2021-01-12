@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Spelling Bee Buddy
+img: spellingbee.gif
+alt: spellingbee
+category: Desktop Web Application
+deployed-link: https://spellingbeebuddy.herokuapp.com/
+repo: https://github.com/jt5301/spellingbeebuddy
+description: A web app that gives you a few words to the New York Times' daily Spelling Bee game. Made with React and vanilla CSS. The algorithms used to solve the anagram are also implemented in JavaScript.
 ---

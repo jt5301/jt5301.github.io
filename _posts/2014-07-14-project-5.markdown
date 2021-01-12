@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: JavaScript Sorting Visualizer
+img: sorting.gif
+alt: jssorter
+category: Desktop Web Application
+deployed-link: https://js-sorter.herokuapp.com/
+repo: https://github.com/jt5301/vanilla_sorting
+description: A sorting visualizer. The algorithms were written in vanilla JavaScript, and are connected to an HTML DOM application. The styling was done using vanilla CSS.
 ---

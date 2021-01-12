@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: Movie Rater
+img: movierating.gif
+alt: movierating
+category: Desktop Web Application
+deployed-link: https://jt-ratethismovie.herokuapp.com/
+repo: https://github.com/jt5301/MovieRating
+description: A web app that lets you find any movies listed on IMDB, and give it a thumbs up or thumbs down. Originally made using Express, I ended up implementing GraphQL as an exercise in learning how to implement GraphQL and Apollo for serving data. The final iteration of this project is made with React, GraphQL/Apollo and MongoDB, with MaterialUI for styling.
 ---

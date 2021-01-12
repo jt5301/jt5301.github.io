@@ -1,11 +1,11 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: MentionsCrawler
+img: mentionscrawler.gif
+alt: mentionscrawler
+category: Desktop Web Application
+deployed-link: https://mentioncrawler.herokuapp.com/login
+repo: https://github.com/hatchways/team-cherry
+description: A web application that lets users track what social media and news sites are saying about different organizations. In the gif above as an example, my feed consists of mentions / items for the companies Nike and Apple. Made with React, Express, PostgreSQL, and Material-UI for styling. Scraping the different media sites was made possible through their respective APIs. SendGrid was also utilized for sending weekly emails consisting of the top ten mentions for each company a user follows.
 ---

@@ -6,5 +6,5 @@ img: accountabuddy.gif
 alt: accoutabuddy
 repo: https://github.com/Dr-DJ1909/Accountabuddy
 category: Mobile Application
-description: The final project I made at the end of my time at Fullstack Academy with a group of three others. Accoutabuddy is a mobile productivity app that allows users to track tasks to complete, with the added motivation and encouragement of having a pet to take care of. We also wanted to add some social functionality such as real-time chat to add other ways for users to keep accountable to their chores. Created with React Native, Node.js, Express and Firebase.
+description: The final project I made at the end of my time at Fullstack Academy with a group of three others. Accountabuddy is a mobile productivity app that allows users to track tasks to complete, with the added motivation and encouragement of having a pet to take care of. We also wanted to add some social functionality such as real-time chat to add other ways for users to keep accountable to their chores. Created with React Native, Node.js, Express and Firebase.
 ---

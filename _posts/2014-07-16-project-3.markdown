@@ -5,7 +5,6 @@ title: Movie Rater
 img: movierating.gif
 alt: movierating
 category: Desktop Web Application
-deployed-link: https://jt-ratethismovie.herokuapp.com/
 repo: https://github.com/jt5301/MovieRating
 description: A web app that lets you find any movies listed on IMDB, and give it a thumbs up or thumbs down. Originally made using Express, I ended up implementing GraphQL as an exercise in learning how to implement GraphQL and Apollo for serving data. The final iteration of this project is made with React, GraphQL/Apollo and MongoDB, with MaterialUI for styling.
 ---

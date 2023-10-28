@@ -5,7 +5,6 @@ title: MentionsCrawler
 img: mentionscrawler.gif
 alt: mentionscrawler
 category: Desktop Web Application
-deployed-link: https://mentioncrawler.herokuapp.com/login
 repo: https://github.com/hatchways/team-cherry
 description: A web application that lets users track what social media and news sites are saying about different organizations. In the gif above as an example, my feed consists of mentions / items for the companies Nike and Apple. Made with React, Express, PostgreSQL, and Material-UI for styling. Scraping the different media sites was made possible through their respective APIs. SendGrid was also utilized for sending weekly emails consisting of the top ten mentions for each company a user follows.
 ---
